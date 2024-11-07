@@ -546,14 +546,19 @@ footer .col{
 footer .logo {
   margin-bottom: 30px;
 }
-
+footer h3{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 footer h4{
   font-size: 14px;
   padding-bottom: 20px;
 }
 
 footer p{
-  font-size: 13px;
+  font-size: 15px;
  margin: 0 0 8px 0;
 }
 
@@ -696,6 +701,15 @@ font-size: 26px;
   background-image: url("./b19.jpg");
 }
 
+
+/* next one blog */
+
+h3{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 #blog{
   padding: 150px 150px 0 150px;
 }
@@ -908,35 +922,34 @@ font-size: 26px;
 }
 
 
+#about{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 
 
+#contact{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 
+#cnt{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#cart{
+  font-size: 20px;
+  margin:3px 23px 28px -7px;
+  font-weight: 300;
+  font-style: oblique;
+}
 
 @media (max-width:799px) {
   .section-p1 {
